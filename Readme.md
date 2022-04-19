@@ -2,18 +2,22 @@
 
 Hi There! This is a sample project I did as part of an interview process at a
 certain unnamed company. The project brief was:
+
+
 *For this portion of the interview, we’d like you to build a basic, single view
 app that allows a user to search for fun, animated GIFs.*
+
+
 They also supplied a sample query URL and some tips, but A) the api is pretty 
-self-explanatory in the code (and the actual docs linked to).  ¯\_(ツ)_/¯
+self-explanatory in the code (and the actual docs linked to).  ¯\\_(ツ)_/¯
 
 
 These open-ended take-home projects are kinda crap. They always take 2-3 times
-what the interviewers estimate. Mostly they aren't paid. And frequently they
-don't have a lot to do with what you'll be doing. I'm sure the folks who put
-it together thought it was a good estimate (3-4 hours), but doubt they tried
-timing themselves while they did it. My advice? Stick with the companies who
-compensate your for take-home projects.
+what the interviewers estimate. Most of the time this is unpaid work. And
+frequently they don't have a lot to do with what you'll be doing. I'm sure the
+folks who put it together thought it was a good estimate (3-4 hours), but doubt
+they tried timing themselves while they did it. My advice? Stick with the
+companies who compensate you for take-home projects.
 
 
 Everything is self-contained. No pods or Carthage configs. Open up the xcode
